@@ -1,11 +1,7 @@
 import { RouterPathway } from "./RouterPathway";
 
 function App() {
-  return (
-    <>
-      <RouterPathway />
-    </>
-  );
+  return <RouterPathway />;
 }
 
 export default App;
