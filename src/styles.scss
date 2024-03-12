@@ -1,0 +1,64 @@
+$primary: #26c7c9;
+$secondary: #8fc3f3;
+$info: #e6e4e4;
+$black: #0f1116;
+$white: #fffdfb;
+$light: #e9f2fa;
+
+// @import "~bootstrap/scss/bootstrap";
+
+body {
+  margin: 0;
+  background-color: $white;
+  color: $black;
+  font-family: "Assistant", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+  color: $white;
+  transition: color 0.3s ease;
+  letter-spacing: 1px;
+}
+
+a:hover,
+.link-active {
+  color: $primary;
+}
+
+.logo {
+  width: 150px;
+  height: auto;
+}
+
+.logo-text {
+  font-size: 5rem;
+  font-family: "Gabarito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@media (max-width: 768px) {
+  /* For tablets */
+  .logo {
+    width: 90px;
+  }
+  .logo-text {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 480px) {
+  /* For mobile phones */
+  .logo {
+    width: 60px;
+  }
+  .logo-text {
+    font-size: 2rem;
+  }
+}
