@@ -43,6 +43,15 @@ a:hover,
   font-style: normal;
 }
 
+h1 {
+  font-weight: 600;
+}
+
+img.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
 @media (max-width: 768px) {
   /* For tablets */
   .logo {
