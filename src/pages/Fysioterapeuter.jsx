@@ -1,6 +1,6 @@
 export function Fysioterapeuter() {
   return (
-    <div className="container mt-5">
+    <main className="container mt-5">
       <h1 className="text-center mb-5">Våre fysioterapeuter</h1>
       <div>
         <div className="row mb-5 py-4">
@@ -50,6 +50,6 @@ export function Fysioterapeuter() {
           </div>
         </div>
       </div>
-    </div>
+    </main>
   );
 }

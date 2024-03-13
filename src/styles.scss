@@ -5,7 +5,7 @@ $black: #0f1116;
 $white: #fffdfb;
 $light: #e9f2fa;
 
-// @import "~bootstrap/scss/bootstrap";
+@import "node_modules/bootstrap/scss/bootstrap";
 
 body {
   margin: 0;
@@ -16,6 +16,10 @@ body {
   font-weight: 400;
   font-style: normal;
   overflow-x: hidden;
+}
+
+main {
+  min-height: 63vh;
 }
 
 a {
