@@ -30,7 +30,7 @@ export function Fysioterapeuter() {
           <div className="col-xs-12 col-lg-5">
             <div className="text-center text-lg-end mb-4 mb-lg-0">
               <img
-                src="/src/img/fysioterapeuter/oyvind.jpg"
+                src="/src/img/fysioterapeuter/oskar.jpg"
                 alt="oyvind"
                 className="circle img-fluid"
               />
@@ -38,11 +38,11 @@ export function Fysioterapeuter() {
           </div>
           <div className="col-xs-12 col-lg-6 align-self-center">
             <h2 className="fs-1 text-center text-lg-start">
-              Øyvind Ville Sæter
+              Oskar Rømyhr Lund
             </h2>
-            <h3 className="fs-4 text-center text-lg-start">Fysioterapeut</h3>
+            <h3 className="fs-4 text-center text-lg-start">Kiropraktor</h3>
             <p className="fs-5">
-              Jeg er en fysioterapeut Lorem ipsum dolor sit amet consectetur,
+              Jeg er en kiropraktor Lorem ipsum dolor sit amet consectetur,
               adipisicing elit. Ipsum ratione voluptas modi nemo quisquam,
               voluptates eius ipsam dignissimos delectus. Adipisci deleniti sed
               dolores officia dolorum id accusantium, incidunt ex accusamus!
