@@ -36,7 +36,7 @@ export function Home() {
           </div>
           <div className="col-lg">
             <img
-              src="/src/img/homepage/holtenfysioterapikontor.jpg"
+              src="/public/img/homepage/holtenfysioterapikontor.jpg"
               alt="holten fysioterapi kontor"
               className="img-fluid"
             />
