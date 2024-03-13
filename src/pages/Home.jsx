@@ -1,6 +1,6 @@
 export function Home() {
   return (
-    <div className="container mt-5">
+    <main className="container my-5">
       <div className="row">
         <div className="col-lg">
           <h1 className="text-uppercase">Holten Institutt</h1>
@@ -34,6 +34,6 @@ export function Home() {
           />
         </div>
       </div>
-    </div>
+    </main>
   );
 }
