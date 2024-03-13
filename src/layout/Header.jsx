@@ -5,7 +5,7 @@ export const Header = () => {
     <header className="bg-black">
       <div className="d-flex mx-3 pt-3 mb-4 container">
         <img
-          src="/src/assets/logo.png"
+          src="/public/assets/logo.png"
           alt="holten-institutt-logo"
           className="logo me-5"
         />

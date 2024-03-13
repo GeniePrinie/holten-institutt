@@ -17,7 +17,7 @@ export function Fysioterapeuter() {
             <div className="col-xs-12 col-lg-5">
               <div className="text-center text-lg-end mb-4 mb-lg-0">
                 <img
-                  src="/src/img/fysioterapeuter/oyvind.jpg"
+                  src="/public/img/fysioterapeuter/oyvind.jpg"
                   alt="oyvind"
                   className="circle img-fluid"
                 />
@@ -41,8 +41,8 @@ export function Fysioterapeuter() {
             <div className="col-xs-12 col-lg-5">
               <div className="text-center text-lg-end mb-4 mb-lg-0">
                 <img
-                  src="/src/img/fysioterapeuter/oskar.jpg"
-                  alt="oyvind"
+                  src="/public/img/fysioterapeuter/oskar.jpg"
+                  alt="oskar"
                   className="circle img-fluid"
                 />
               </div>
