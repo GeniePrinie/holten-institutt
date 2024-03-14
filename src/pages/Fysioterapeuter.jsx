@@ -10,7 +10,7 @@ export function Fysioterapeuter() {
           content="Fysioterapeuter hos Holten Institutt"
         />
       </Helmet>
-      <main className="container mt-5">
+      <main className="container my-5">
         <h1 className="text-center mb-5">Våre fysioterapeuter</h1>
         <div>
           <div className="row mb-5 py-4">
