@@ -10,14 +10,14 @@ export function Fysioterapeuter() {
           content="Fysioterapeuter hos Holten Institutt"
         />
       </Helmet>
-      <main className="container mt-5">
+      <main className="container my-5">
         <h1 className="text-center mb-5">Våre fysioterapeuter</h1>
         <div>
           <div className="row mb-5 py-4">
             <div className="col-xs-12 col-lg-5">
               <div className="text-center text-lg-end mb-4 mb-lg-0">
                 <img
-                  src="/public/img/fysioterapeuter/oyvind.jpg"
+                  src="/assets/img/fysioterapeuter/oyvind.jpg"
                   alt="oyvind"
                   className="circle img-fluid"
                 />
@@ -41,7 +41,7 @@ export function Fysioterapeuter() {
             <div className="col-xs-12 col-lg-5">
               <div className="text-center text-lg-end mb-4 mb-lg-0">
                 <img
-                  src="/public/img/fysioterapeuter/oskar.jpg"
+                  src="/assets/img/fysioterapeuter/oskar.jpg"
                   alt="oskar"
                   className="circle img-fluid"
                 />
