@@ -7,7 +7,7 @@ export function Kontakt() {
         <title>Holten Institutt | Kontakt</title>
         <meta name="description" content="Ta kontakt med Holten Institutt" />
       </Helmet>
-      <main className="container my-5">
+      <main className="container-fluid my-5">
         <div className="text-center">
           <h1 className="mb-3">Bestille time</h1>
           <p className="fs-5">Timebestiling gjøres per telefon</p>
